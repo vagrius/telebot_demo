@@ -1,2 +1,2 @@
-# telebot_demo
-A simple Telegram bot demo.
+# Telebot demo
+A simple Telegram bot that scraps latest news from vc.ru and sends it to some channel.
